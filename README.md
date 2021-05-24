@@ -2,15 +2,72 @@
 
 - ## Physical Internship Certificates
   - [Android Developer Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Omkar.pdf)
+  ```
+  Summary:
+  Created an Android Application for 7-classes Students. Also managed and maintained the database of students.
+  ```
   - [Content Writer Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/20210524_110834.PDF)
+  ```
+  Summary:
+  Worked on providing solutions to notes for STD. 8th to 10th and tutoring Doubt Solving Lectures.
+  ```
 - ## Virtual Internship Certificates
   - [ANZ Vitrual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/ANZ_virtual.pdf)
+  ```
+  Summary:
+  Completed Practical task modules on 
+  Exploratory Data Analysis
+  Predective Analysis
+  ```
   - [Goldman Sachs Virtual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Goldman_Virtual.pdf)
+  ```
+  Summary:
+  Completed Practical task modules on 
+  Crack Leaked Password Database
+  ```
   - [JPMorgan Chase & Co. Virtual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/JPmorgan_Virtual_Internship.pdf)
+  ```
+  Summary:
+  Completed Practical task modules on 
+  Establishing Financial Data Feeds
+  Frontend Web Development 
+  Data Visualization with perspective
+  ```
   - [KPMG Virtual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/KPMG_Virtual.pdf)
+  ```
+  Summary:
+  Completed Practical task modules on 
+  Data Quality Assessment
+  Data Insights
+  Data Insights and Presentation
+  ```
   - [Quantium Virtual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Quantium_Virtual.pdf)
+  ```
+  Summary:
+  Completed Practical task modules on
+  Data preparation and customer analytics
+  Experimentation and uplift testing
+  Analytics and commercial application
+  ```
   - [Deloitte Virtual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/deloitte_Virtual.pdf)
+  ```
+  Summary:
+  Completed Practical task modules on
+  Client Discovely                            Further analysis & solution presentation
+  Design a Business Case                      Understanding Cloud Computing
+  Considerations For Mobilisation             Cloud Feasibility Assessment 
+  Define the project approach                 Cloud Readiness Assessment
+  Conduct a market scan
+  ```
   - [J.P.Morgan Virtual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/jpmc_Virtual.pdf)
+  ```
+  Summary:
+  Completed Practical task modules on
+  Find some M&A targets 
+  Target information and auction process
+  Financial analysis run the numbers
+  Provide an investment recommendation
+  ```
 - ## Coursera Certificates
   - [John Hopkins University - The Data Scientist's Toolbox](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20PZ3WTUSW75JN.pdf)
   - [John Hopkins University - R programming](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20Z5DF7AQRL7PM.pdf)
