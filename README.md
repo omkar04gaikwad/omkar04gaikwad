@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # My Resume
   ![](images/OmkarGaikwad_Resume.jpg)
 # All Certifications listed in My Resume
