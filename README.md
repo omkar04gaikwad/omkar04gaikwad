@@ -1,15 +1,27 @@
 # All Certifications listed in My Resume
-
+- ## HackerRank Certifications
+  - [Java (Basic)](https://www.hackerrank.com/certificates/1fdccfc56f1f)
+  - [JavaScript (Basic)](https://www.hackerrank.com/certificates/502f7520d557)
+  - [Python (Basic)](https://www.hackerrank.com/certificates/c1302edecaa4)
+  - [SQL (Basic)](https://www.hackerrank.com/certificates/a297c67712dc)
+  - [Angular (Basic)](https://www.hackerrank.com/certificates/7de04c0237b2)
+  - [Rest API (Intermediate)](https://www.hackerrank.com/certificates/13b329396417)
 - ## Physical Internship Certificates
+  - [Graduate Engineer Trainee Internship]()
+  ```
+  Full Stack Web Development using technologies such as
+  Flask, Django, React, Angular and ASP.NET and SQLite as Database.
+  ```
   - [Android Developer Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Omkar.pdf)
   ```
   Summary:
-  Created an Android Application for 7-classes Students. Also managed and maintained the database of students.
+  Created an Android Application for 7-classes Students
+  Also managed and maintained the database of students.
   ```
   - [Content Writer Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/20210524_110834.PDF)
   ```
   Summary:
-  Worked on providing solutions to notes for STD. 8th to 10th and tutoring Doubt Solving Lectures.
+  Worked on providing solutions to notes for students(8th - 10th Grade) and tutoring Doubt Solving Lectures.
   ```
 - ## Virtual Internship Certificates
   - [ANZ Vitrual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/ANZ_virtual.pdf)
@@ -17,7 +29,18 @@
   Summary:
   Completed Practical task modules on 
   Exploratory Data Analysis
-  Predective Analysis
+  Predictive Analysis
+  ```
+  -[Investment Management Virtual Internship Program by Future IM/Pact](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Pact_9z4hSxgmm3EfYwh8q_completion_certificate.pdf)
+  ```
+  Summary:
+  Overview of industry key players
+  Roles and career pathways in
+  Investment Management
+  Fixed income investing
+  A day in the life of an Analyst
+  Make an investment recommendation
+  for Apple stock (Bonus module)
   ```
   - [Goldman Sachs Virtual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Goldman_Virtual.pdf)
   ```
@@ -53,7 +76,7 @@
   ```
   Summary:
   Completed Practical task modules on
-  Client Discovely                            Further analysis & solution presentation
+  Client Discovery                            Further analysis & solution presentation
   Design a Business Case                      Understanding Cloud Computing
   Considerations For Mobilisation             Cloud Feasibility Assessment 
   Define the project approach                 Cloud Readiness Assessment
@@ -69,6 +92,7 @@
   Provide an investment recommendation
   ```
 - ## Coursera Certificates
+  - [The Hong Kong University of Science and Technology - Front-End JavaScript Frameworks: Angular](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20ZH3ZQRNPXGR3.pdf)
   - [John Hopkins University - The Data Scientist's Toolbox](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20PZ3WTUSW75JN.pdf)
   - [John Hopkins University - R programming](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20Z5DF7AQRL7PM.pdf)
   - [John Hopkins University - Getting and Cleaning Data](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%2047VELPXJMM8S.pdf)
@@ -103,6 +127,7 @@
   - [ANN for Buisness Managers in R Studio](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-3ef958ca-c5a0-4b69-9672-488f3d789aa3.pdf)
   - [Virtual Personal Assistant Development](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-2a741389-4820-44d9-bef4-a5aa5fabf9d7.pdf)
 - ## Other Certificates
+  - [Microsoft Azure Essentials Masterclass by E&Y LPP](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Omkar%20Rajendra%20Gaikwad.pdf)
   - [Capgemini Tech Challenge 2020](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Capgemini%20Tech%20Challenge%202020%20_%20Print%20Certificate.pdf)
   - [Python 101 for Data Science](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Cognitiveclass%20PY0101EN%20Certificate%20_%20Cognitive%20Class.pdf)
   - [Oracle Dev Gym- Database for Developers: Foundations](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Databases%20for%20Developers_%20Foundations.pdf)
