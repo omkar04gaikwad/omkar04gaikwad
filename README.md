@@ -9,8 +9,8 @@
 - ## Physical Internship Certificates
   - [Graduate Engineer Trainee Internship]()
   ```
-  Full Stack Web Development using technologies such as
-  Flask, Django, React, Angular and ASP.NET and SQLite as Database.
+  Collaborated with a team to create an Employee Dashboard as a Basic CRUD application, using Python Flask for Backend Server,
+Angular-Typescript for Frontend Framework, and SQLite as Relational Database
   ```
   - [Android Developer Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Omkar.pdf)
   ```
