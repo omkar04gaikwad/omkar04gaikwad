@@ -1,4 +1,4 @@
-# All Certifications listed in My Resume
+# My Achievements
 - ## HackerRank Certifications
   - [Java (Basic)](https://www.hackerrank.com/certificates/1fdccfc56f1f)
   - [JavaScript (Basic)](https://www.hackerrank.com/certificates/502f7520d557)
