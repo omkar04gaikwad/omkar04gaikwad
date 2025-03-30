@@ -10,7 +10,7 @@
   - [Graduate Engineer Trainee Internship]()
   ```
   Summary:
-  Collaborated with a team to create an Employee Dashboard as a Basic CRUD application, using Python Flask for Backend Server, Angular-Typescript for Frontend Framework, and SQLite as Relational Database
+    Developed a full-stack document tracking system using Flask, Angular, and SQLite, automating CSV data ingestion and validation to digitize manual workflows, reduce processing time by 40%, and improve data accuracy by 60%
   ```
   - [Android Developer Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Omkar.pdf)
   ```
