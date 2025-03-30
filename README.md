@@ -31,7 +31,7 @@
   Exploratory Data Analysis
   Predictive Analysis
   ```
-  -[Investment Management Virtual Internship Program by Future IM/Pact](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Pact_9z4hSxgmm3EfYwh8q_completion_certificate.pdf)
+  - [Investment Management Virtual Internship Program by Future IM/Pact](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Pact_9z4hSxgmm3EfYwh8q_completion_certificate.pdf)
   ```
   Summary:
   Overview of industry key players
