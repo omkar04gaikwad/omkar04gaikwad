@@ -2,8 +2,8 @@
 
 ## Work Experience
 
-### Software Engineer, Ipser Labs – Remote (2025 – Present)
-Built and deployed a distributed e-commerce platform using Spring Boot, React.js, and PostgreSQL, reducing onboarding time by 30% and securing transactions with JWT, MFA, and Stripe webhooks. Optimized database queries and implemented caching, improving system throughput by 25% while ensuring production-ready persistence for 100K+ users. Automated deployments with Terraform and AWS CDK, integrated CI/CD pipelines with GitHub Actions, and accelerated release cycles by 70%. Implemented unit and integration tests using Mockito to maintain 90%+ code coverage and ensure production reliability.
+<!--### Software Engineer, Ipser Labs – Remote (2025 – Present)
+Built and deployed a distributed e-commerce platform using Spring Boot, React.js, and PostgreSQL, reducing onboarding time by 30% and securing transactions with JWT, MFA, and Stripe webhooks. Optimized database queries and implemented caching, improving system throughput by 25% while ensuring production-ready persistence for 100K+ users. Automated deployments with Terraform and AWS CDK, integrated CI/CD pipelines with GitHub Actions, and accelerated release cycles by 70%. Implemented unit and integration tests using Mockito to maintain 90%+ code coverage and ensure production reliability.-->
 
 ### Software Engineer, Humanitarians AI – Remote (Feb 2025 – Present)
 Prototyped an AI-powered travel planner using FastAPI, Next.js, Cohere and Hugging Face that improved itinerary relevance by 37% in benchmarks and designed to scale to 10K monthly users. Developed a doctor recommendation engine trained on 520K+ profiles, improving match precision by 33% and reducing lookup time from 14 to 6 mins in controlled trials. Integrated 310K+ medical reports into Chroma DB with Groq API embeddings, cutting median query latency from 212ms to 117ms (45% faster) during load simulations. Designed an ER triage RAG App that categorized patients into 5 severity levels, lowering simulated prioritization delays by 24% in experimental evaluations.
