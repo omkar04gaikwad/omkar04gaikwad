@@ -1,18 +1,31 @@
 # Portfolio: [Omkar Gaikwad](https://omkar04gaikwad.github.io/Omkar_Gaikwad/)
 
 ## Work Experience
+### Software Engineer, Deloitte Consulting LPP (Dec 2025 - Present)
+  - Designed a Spring Batch–based pipeline to transitively merge child benefits data while preserving merge history for auditability and rollback, automating over 90% of manual review work
+  - Built a gRPC geo-location service to normalize and validate partial or incorrect addresses using scoring methods, ensuring consistent and accurate location data for child records submitted by client systems
 
-<!--### Software Engineer, Ipser Labs – Remote (2025 – Present)
-Built and deployed a distributed e-commerce platform using Spring Boot, React.js, and PostgreSQL, reducing onboarding time by 30% and securing transactions with JWT, MFA, and Stripe webhooks. Optimized database queries and implemented caching, improving system throughput by 25% while ensuring production-ready persistence for 100K+ users. Automated deployments with Terraform and AWS CDK, integrated CI/CD pipelines with GitHub Actions, and accelerated release cycles by 70%. Implemented unit and integration tests using Mockito to maintain 90%+ code coverage and ensure production reliability.-->
+### Software Engineer, IpserLab – Remote (May 2025 - Nov 2025)
+  - Architected a full-stack B2B e-commerce platform with Spring Boot and Angular, supporting scalable business workflows
+  - Accelerated dashboard performance by introducing Redis-backed caching for PostgreSQL queries, increasing throughput from 5 QPS to 200 QPS and cutting page load time by 85%
+  - Delivered a secure authentication service using Spring Security, OAuth 2.0, and JWT, sustaining sub-150ms login latency across SSO and multi-factor authentication flows
 
-### Software Engineer, Humanitarians AI – Remote (Feb 2025 – Present)
-Prototyped an AI-powered travel planner using FastAPI, Next.js, Cohere and Hugging Face that improved itinerary relevance by 37% in benchmarks and designed to scale to 10K monthly users. Developed a doctor recommendation engine trained on 520K+ profiles, improving match precision by 33% and reducing lookup time from 14 to 6 mins in controlled trials. Integrated 310K+ medical reports into Chroma DB with Groq API embeddings, cutting median query latency from 212ms to 117ms (45% faster) during load simulations. Designed an ER triage RAG App that categorized patients into 5 severity levels, lowering simulated prioritization delays by 24% in experimental evaluations.
+### Software Engineer, Humanitarians AI – Remote (Feb 2025 – May 2025)
+  - Prototyped an AI-powered travel planner using FastAPI, Next.js, Cohere and Hugging Face that improved itinerary relevance by 37% in benchmarks and designed to scale to 10K monthly users.
+  - Developed a doctor recommendation engine trained on 520K+ profiles, improving match precision by 33% and reducing lookup time from 14 to 6 mins in controlled trials. Integrated 310K+ medical reports into Chroma DB with Groq API embeddings, cutting median query latency from 212ms to 117ms (45% faster) during load simulations.
+  - Designed an ER triage RAG App that categorized patients into 5 severity levels, lowering simulated prioritization delays by 24% in experimental evaluations.
 
 ### Software Engineer, Nuvera Fuel Cells – Boston, MA (July 2023 – Dec 2023)
-Built a React.js dashboard integrated with Python, RabbitMQ, and Redis, enabling real-time monitoring of 50K daily telemetry events and reducing fault detection time from 9 to 2 minutes. Designed a Redis-backed Token Bucket rate limiter for APIs, sustaining 50K daily requests at 95ms latency and ensuring reliable performance under load. Developed a Python-based chatbot with LangChain and Vector DB integration, reducing analysis time by 83% and enabling adoption by 30 engineers for daily diagnostics.
+  - Developed a Python Flask-based Over-the-Air (OTA) update system to deploy C code to engine controllers, supporting both manual and automated rollouts, reducing firmware update time by 65%
+  - Orchestrated a GitHub Actions CI/CD pipeline to validate Simulink models, generate C code via automated code generation, package artifacts into custom images to AWS using Packer
+  - Built a Python Tkinter-based interface to monitor and control engine behavior in real time during testing, capturing structured telemetry and test outputs for downstream analysis
+  - Performed exploratory data analysis and trend analysis on engine test data collected during real-time runs, using AWS S3 and Athena to query, aggregate and evaluate performance metrics, and detect anomalies
 
-### Software Engineer, Larsen & Toubro Infotech – Mumbai, India (Jan 2021 – Aug 2022)
-Enhanced Spring Boot REST APIs with an ML-based duplicate detection system with 85% confidence, automating 90% of CRM reviews across 100K customer portals. Architected a microservices-based medical records platform with Spring Boot and MongoDB, managing 50M+ records with 99.9% uptime for 100K users. Adopted Agile and Test-Driven Development (TDD) with JUnit, integrating Jenkins into CI/CD pipelines to improve defect detection by 25% and ensure consistent release quality. Modernized a legacy authentication system by replacing ActiveX with a Java Servlet–based LDAP and JWT solution, enabling cross-browser compatibility and secure deployment on Oracle WebLogic Server. Built interactive dashboards with React.js and REST APIs, streamlining data access for 5K+ monthly users across healthcare workflows.
+
+### Senior Software Engineer, Larsen & Toubro Infotech – Mumbai, India (Jan 2021 – Aug 2022)
+  - Built a real-time medical transcription web application using a Kaldi-based speech recognition engine and transformerbased NLP models, achieving 96% transcription accuracy and reducing client’s manual processing time by 80%
+  - Developed a distributed real-time ticket tracking system using Kafka and Cassandra to handle high-volume resource events, improving system reliability and reducing average ticket resolution time by 45%
+  - Led the design and deployment of a containerized microservices platform for an OTT application using Docker, Kubernetes, and AWS, enabling automated scaling and fault tolerance and increasing service uptime by 30%
 
 ## Projects
 
